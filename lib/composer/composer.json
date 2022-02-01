@@ -1,0 +1,17 @@
+{
+    "name": "wef/agendamentos",
+    "description": "Agendamentos - FLF",
+    "authors": [
+        {
+            "name": "Demetrius Fernandes",
+            "email": "demetrius.sobral@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
